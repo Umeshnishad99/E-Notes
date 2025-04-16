@@ -1,0 +1,13 @@
+U:\AIP projects\E-Notes-webapp--main\ENotes\src\main\java\com\DAO\NoteDAO.java
+U:\AIP projects\E-Notes-webapp--main\ENotes\src\main\java\com\DAO\UserDAO.java
+U:\AIP projects\E-Notes-webapp--main\ENotes\src\main\java\com\DB\DBconnect.java
+U:\AIP projects\E-Notes-webapp--main\ENotes\src\main\java\com\Servlet\AddNoteServlet.java
+U:\AIP projects\E-Notes-webapp--main\ENotes\src\main\java\com\Servlet\DBListener.java
+U:\AIP projects\E-Notes-webapp--main\ENotes\src\main\java\com\Servlet\DeleteNotesServlet.java
+U:\AIP projects\E-Notes-webapp--main\ENotes\src\main\java\com\Servlet\EditNotesServlet.java
+U:\AIP projects\E-Notes-webapp--main\ENotes\src\main\java\com\Servlet\LoginServlet.java
+U:\AIP projects\E-Notes-webapp--main\ENotes\src\main\java\com\Servlet\RegisterServlet.java
+U:\AIP projects\E-Notes-webapp--main\ENotes\src\main\java\com\Servlet\ShowNotesServlet.java
+U:\AIP projects\E-Notes-webapp--main\ENotes\src\main\java\com\User\NoteDetails.java
+U:\AIP projects\E-Notes-webapp--main\ENotes\src\main\java\com\User\UserDetails.java
+U:\AIP projects\E-Notes-webapp--main\ENotes\src\main\java\com\Util\JPAUtil.java
